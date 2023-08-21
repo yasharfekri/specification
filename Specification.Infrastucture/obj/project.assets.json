@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\others\\specification\\Specification\\Specification.Infrastucture\\Specification.Infrastucture.csproj",
+      "projectUniqueName": "D:\\projects\\others\\specification\\Spec\\Specification.Infrastucture\\Specification.Infrastucture.csproj",
       "projectName": "Specification.Infrastucture",
-      "projectPath": "D:\\projects\\others\\specification\\Specification\\Specification.Infrastucture\\Specification.Infrastucture.csproj",
+      "projectPath": "D:\\projects\\others\\specification\\Spec\\Specification.Infrastucture\\Specification.Infrastucture.csproj",
       "packagesPath": "C:\\Users\\Optizone\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\others\\specification\\Specification\\Specification.Infrastucture\\obj\\",
+      "outputPath": "D:\\projects\\others\\specification\\Spec\\Specification.Infrastucture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Optizone\\AppData\\Roaming\\NuGet\\NuGet.Config",

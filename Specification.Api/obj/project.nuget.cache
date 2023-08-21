@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1bAIRDbP/KcZYp0yDxAKs5tQOrcaTuBWOKtKtDmtVuKdMT6rSV5AmcImdd4N8iomKZ0V81+1+nZZ48aXri/0rw==",
+  "dgSpecHash": "6AkpDp6EwufrZYzpt6ixjPbjupZCcy4btFFLj5Y6Zc/T0DiXX64Ccsw0hjuIq+yb55GHt4J3t8Xwkxhp7HiUVw==",
   "success": true,
-  "projectFilePath": "D:\\projects\\others\\specification\\Specification\\Specification.Api\\Specification.Api.csproj",
+  "projectFilePath": "D:\\projects\\others\\specification\\Spec\\Specification.Api\\Specification.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Optizone\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Optizone\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

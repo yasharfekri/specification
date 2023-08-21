@@ -10,3 +10,15 @@ D:\projects\others\specification\Specification\Specification.Infrastucture\obj\D
 D:\projects\others\specification\Specification\Specification.Infrastucture\obj\Debug\net6.0\refint\Specification.Infrastucture.dll
 D:\projects\others\specification\Specification\Specification.Infrastucture\obj\Debug\net6.0\Specification.Infrastucture.pdb
 D:\projects\others\specification\Specification\Specification.Infrastucture\obj\Debug\net6.0\ref\Specification.Infrastucture.dll
+D:\projects\others\specification\Spec\Specification.Infrastucture\bin\Debug\net6.0\Specification.Infrastucture.deps.json
+D:\projects\others\specification\Spec\Specification.Infrastucture\bin\Debug\net6.0\Specification.Infrastucture.dll
+D:\projects\others\specification\Spec\Specification.Infrastucture\bin\Debug\net6.0\Specification.Infrastucture.pdb
+D:\projects\others\specification\Spec\Specification.Infrastucture\obj\Debug\net6.0\Specification.Infrastucture.csproj.AssemblyReference.cache
+D:\projects\others\specification\Spec\Specification.Infrastucture\obj\Debug\net6.0\Specification.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\others\specification\Spec\Specification.Infrastucture\obj\Debug\net6.0\Specification.Infrastucture.AssemblyInfoInputs.cache
+D:\projects\others\specification\Spec\Specification.Infrastucture\obj\Debug\net6.0\Specification.Infrastucture.AssemblyInfo.cs
+D:\projects\others\specification\Spec\Specification.Infrastucture\obj\Debug\net6.0\Specification.Infrastucture.csproj.CoreCompileInputs.cache
+D:\projects\others\specification\Spec\Specification.Infrastucture\obj\Debug\net6.0\Specification.Infrastucture.dll
+D:\projects\others\specification\Spec\Specification.Infrastucture\obj\Debug\net6.0\refint\Specification.Infrastucture.dll
+D:\projects\others\specification\Spec\Specification.Infrastucture\obj\Debug\net6.0\Specification.Infrastucture.pdb
+D:\projects\others\specification\Spec\Specification.Infrastucture\obj\Debug\net6.0\ref\Specification.Infrastucture.dll

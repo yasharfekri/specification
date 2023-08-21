@@ -7,7 +7,7 @@ using static Specification.Infrastucture.SpecFactory;
 namespace Specification.Api.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/spec")]
     public class CustomerController : ControllerBase
     {
         private readonly ILogger<CustomerController> _logger;
@@ -16,7 +16,8 @@ namespace Specification.Api.Controllers
             _logger = logger;
         }
 
-        [HttpGet(Name = "EvaluateOperation")]
+        [HttpGet]
+        [Route("customer/evaluate-operation")]
         public bool EvaluateOperation(string name, int yearOfBirth, int memberSince, bool expected)
         {
             var customer = new Customer(name, new DateTime(yearOfBirth, 1, 1), DateTime.Now.AddYears(-1 * memberSince));
@@ -32,7 +33,8 @@ namespace Specification.Api.Controllers
             return evaluation == expected;
         }
 
-        [HttpGet(Name = "EvaluatesNotOperation")]
+        [HttpGet]
+        [Route("customer/evaluates-not-operation")]
         public bool EvaluatesNotOperation(int year, bool expected)
         {
             var customer = new Customer("test", new DateTime(year, 1, 1));
